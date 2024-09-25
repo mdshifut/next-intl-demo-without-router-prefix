@@ -1,0 +1,22 @@
+{
+  "Header": {
+    "home": "Startseite",
+    "about": "Über uns",
+    "contact": "Kontakt"
+  },
+  "Footer": {
+    "copyText": "2024 alle Rechte vorbehalten",
+    "home": "Startseite",
+    "about": "Über uns",
+    "contact": "Kontakt"
+  },
+  "HomePage": {
+    "title": "Dies ist die Startseite"
+  },
+  "AboutPage": {
+    "title": "Dies ist die Über-uns-Seite"
+  },
+  "ContactPage": {
+    "title": "Dies ist die Kontaktseite"
+  }
+}
